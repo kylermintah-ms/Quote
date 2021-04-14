@@ -68,5 +68,22 @@ A Repository of quotes
 
 ![image](https://user-images.githubusercontent.com/79658062/114725673-ae092200-9d0a-11eb-8713-529e4768e606.png)
 
+**c)** In the Comparing changes menu, make sure the base branch is set to `main` and the `compare` branch is set to the branch you created in the previous step. <br>
+
+![image](https://user-images.githubusercontent.com/79658062/114726168-21129880-9d0b-11eb-95f8-93c3bdc1dd1e.png)
+
+
+**d)** At this point you should see something like the image below. Select `Create pull request`<br>
+
+![image](https://user-images.githubusercontent.com/79658062/114726543-7cdd2180-9d0b-11eb-821e-7f7ac198a2a7.png)<br>
+
+
+**Just a Note:** As we can see in the screenshot in step 7. b), GitHub already detects that our branch has had recent pushes and prompts us to open a Pull Request. Hence we could have also selected `Compare & pull request` as an alternative which would have skipped steps b through d.
+
+**e)** At this point we should see the `Open a Pull request` menu. **Update the Pull Request title** so that reviewers have a one line summary of the change. **Update the description** if you would like.
+**Set the reviewer** to one, or both of the repo owners (either Mayha, Kyler or both). This will notify us of your Pull Request once you create it. **Assign yourself to the Pull Request** under the Asignees section. **Add the label `called new-quote`** under the Labels section. Lastly click **`Create pull request`**
+
+![image](https://user-images.githubusercontent.com/79658062/114727389-2b816200-9d0c-11eb-872a-f106b434d393.png)
+
 
 
