@@ -30,6 +30,16 @@ A Repository of quotes
 <img src ="https://user-images.githubusercontent.com/79658062/114720108-b90d8380-9d05-11eb-806b-f35745d24b3a.png" width = 75%>
 
 #### 4. Add your favorite quote to FavoriteQuote.txt!<br> 
-**a)** Open `FavoriteQuote.txt` and on a new line, add your favourite quote along with its author <br><br> 
+**a)** Open `FavoriteQuote.txt` and on a new line, add your favourite quote along with its author. Then **save the file**! <br><br> 
 <img src ="https://user-images.githubusercontent.com/79658062/114720608-291c0980-9d06-11eb-9ef8-58235fc1e3db.png" width = 60%>
 
+**b)** Open GitHub Desktop again. Under the `Changes` tab, you should see the new file change you have made along with its content. You will notice on the right a view of the changes you made to the file. This is called a **diff**. The annotation means  the following:
+```diff 
++ new content that has been added
+- content that has been removed/modified
+```
+<br><br> 
+<img src ="https://user-images.githubusercontent.com/79658062/114722329-b449cf00-9d07-11eb-86ec-3ae7da435114.png" width = 60%>
+
+#### 5. Create a new branch<br> 
+**a)** Select `Current Branch` and in the dialog box that pops up, type **`Your_First_Name/my-quote`**. This is will be the name of your branch. Then select `New Branch` and if prompted select `create branch`. Then select **`Bring my changes to <branch name>`** <br><br> 
