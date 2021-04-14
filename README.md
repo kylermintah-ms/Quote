@@ -86,5 +86,12 @@ A Repository of quotes
 
 ![image](https://user-images.githubusercontent.com/79658062/114727389-2b816200-9d0c-11eb-872a-f106b434d393.png)
 
+## 8. Merge Pull Request<br> 
 
+Check back after your reviewer has approved your changes changes! 
+There are likely to be merge conflicts if others are updating the file at the same time, so if you have any merge conflicts alert the repo owner for steps to resolve and merge.
+Otherwise you should be able to select **`Merge pull request`** to complete your contribution! 🎉
+
+> **Questions about any of the above?**
+> Contact kylermintah@microsoft.com
 
