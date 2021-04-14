@@ -42,4 +42,30 @@ A Repository of quotes
 <img src ="https://user-images.githubusercontent.com/79658062/114722329-b449cf00-9d07-11eb-86ec-3ae7da435114.png" width = 60%>
 
 #### 5. Create a new branch<br> 
-**a)** Select `Current Branch` and in the dialog box that pops up, type **`Your_First_Name/my-quote`**. This is will be the name of your branch. Then select `New Branch` and if prompted select `create branch`. Then select **`Bring my changes to <branch name>`** <br><br> 
+**a)** Select `Current Branch` and in the dialog box that pops up, type **`Your_First_Name/my-quote`**. This is will be the name of your branch. Then select `New Branch` and if prompted select `create branch`. Then select **`Bring my changes to <branch name>`**. Lastly, click `Switch branch` <br><br> 
+
+![image](https://user-images.githubusercontent.com/79658062/114723258-8913af80-9d08-11eb-8be9-f0405a1c380d.png)
+<br>
+![image](https://user-images.githubusercontent.com/79658062/114723286-8e70fa00-9d08-11eb-96d8-ff24a9cfe417.png)
+<br>
+
+**b)** You will now notice that your current branch will be your_first_name/my-quote
+<img src ="https://user-images.githubusercontent.com/79658062/114723511-b6f8f400-9d08-11eb-8570-dfc6c8b8c0ef.png" width = 60%>
+
+#### 6. Commit Changes<br> 
+**a)** Now we will bundle our change(s) together into a commit. Make sure FavoriteQuotes.txt is checked in the side pane. Add a title to the commit and a description if you would like. Lastly hit the commit button in the bottom left to add the commit to your branch.<br><br>
+<img src ="https://user-images.githubusercontent.com/79658062/114724205-528a6480-9d09-11eb-89cb-3aa7a685d587.png" height = 40%>
+
+**a)** In the top right, select `Publish branch`. This will publish the branch and push it to GitHub. On GitHub, you should see your branch listed under `branches`
+
+![image](https://user-images.githubusercontent.com/79658062/114724571-b1e87480-9d09-11eb-97f1-356c585d7e19.png)
+
+#### 7. Create Pull Request<br> 
+**a)** Now we will bundle our change(s) together into a commit. Make sure FavoriteQuotes.txt is checked in the side pane. Add a title to the commit and a description if you would like. Lastly hit the commit button in the bottom left to add the commit to your branch.<br><br>
+<img src ="https://user-images.githubusercontent.com/79658062/114724205-528a6480-9d09-11eb-89cb-3aa7a685d587.png" height = 40%>
+
+**a)** In the top right, select `Publish branch`. This will publish the branch and push it to GitHub. On GitHub, you should see your branch listed under `branches`
+
+![image](https://user-images.githubusercontent.com/79658062/114724571-b1e87480-9d09-11eb-97f1-356c585d7e19.png)
+
+
