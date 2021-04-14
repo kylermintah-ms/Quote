@@ -61,11 +61,12 @@ A Repository of quotes
 ![image](https://user-images.githubusercontent.com/79658062/114724571-b1e87480-9d09-11eb-97f1-356c585d7e19.png)
 
 #### 7. Create Pull Request<br> 
-**a)** Now we will bundle our change(s) together into a commit. Make sure FavoriteQuotes.txt is checked in the side pane. Add a title to the commit and a description if you would like. Lastly hit the commit button in the bottom left to add the commit to your branch.<br><br>
-<img src ="https://user-images.githubusercontent.com/79658062/114724205-528a6480-9d09-11eb-89cb-3aa7a685d587.png" height = 40%>
 
-**a)** In the top right, select `Publish branch`. This will publish the branch and push it to GitHub. On GitHub, you should see your branch listed under `branches`
+**a)** Now that we have pushed our branch along with its commits to our remote repo (hosted on GitHub), we are now going to open a Pull Request so that the team can review our changes and allow us to merge onto the main branch.<br>
 
-![image](https://user-images.githubusercontent.com/79658062/114724571-b1e87480-9d09-11eb-97f1-356c585d7e19.png)
+**b)** In GitHub, navigate to the `Pull requests` tab in the repo. Then select `New pull request` <br>
+
+![image](https://user-images.githubusercontent.com/79658062/114725673-ae092200-9d0a-11eb-8713-529e4768e606.png)
+
 
 
