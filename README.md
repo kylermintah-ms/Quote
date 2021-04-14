@@ -56,7 +56,7 @@ A Repository of quotes
 **a)** Now we will bundle our change(s) together into a commit. Make sure FavoriteQuotes.txt is checked in the side pane. Add a title to the commit and a description if you would like. Lastly hit the commit button in the bottom left to add the commit to your branch.<br><br>
 <img src ="https://user-images.githubusercontent.com/79658062/114724205-528a6480-9d09-11eb-89cb-3aa7a685d587.png" height = 40%>
 
-**b)** In the top right, select `Publish branch`. This will publish the branch and push it to GitHub. On GitHub, you should see your branch listed under `branches`
+**b)** In the top right of GitHub Desktop, select `Publish branch`. This will publish the branch and push it to GitHub. On GitHub, you should see your branch listed under `branches`
 
 ![image](https://user-images.githubusercontent.com/79658062/114724571-b1e87480-9d09-11eb-97f1-356c585d7e19.png)
 
